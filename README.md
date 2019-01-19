@@ -6,3 +6,5 @@
 #modify by mac
 #modify by win
 ------ by mac
+
+rakuten test
