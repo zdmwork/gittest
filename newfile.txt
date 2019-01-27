@@ -3,3 +3,4 @@ add git fetch test
 add git pull
 pycharm
 fetch test
+for pull
