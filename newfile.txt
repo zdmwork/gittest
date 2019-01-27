@@ -1,2 +1,3 @@
 add a new file
 add git fetch test 
+add git pull
